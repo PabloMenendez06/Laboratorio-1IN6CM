@@ -1,4 +1,11 @@
-.div1{
-    display: flex !important;
-    justify-content: center !important; 
+.center-content {
+    display: flex;
+    justify-content: center !important;
+}
+h1{
+    text-align: center;
+    color: darkblue !important;
+}
+p{
+    text-align: center;
 }
