@@ -1,0 +1,1 @@
+El rediseño que hice sobre la pagina de Kinal siento que es mejor para vista porque no bombardea con informacion y datos, lo hice mas minimalista lo que lo hace mas atractivo visualmente y siento que funcionaria mejor que la original
